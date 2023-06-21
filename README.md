@@ -10,23 +10,26 @@ I am Barbaux Paul, a **Junior Fullstack Developer** based out of Rennes working 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-round&logo=javascript)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-round&logo=Node.js)
+
 ![react](https://img.shields.io/badge/React-20232A?style=flat-round&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-round&logo=react-router&logoColor=white)
+
+![svelte](https://img.shields.io/badge/React-white?style=flat-round&logo=svelte&logoColor=red)
+
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=flat-round&logo=googlechrome&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat-round&logo=tailwindcss)
 
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-round&logo=jquery&logoColor=white)
-
 ### Backend
-![PHP](https://img.shields.io/badge/-Php-black?style=flat-round&logo=Php)
 ![NEST](https://img.shields.io/badge/-Nest-CA4245?style=flat-round&logo=nestjs)
+![PHP](https://img.shields.io/badge/-Php-black?style=flat-round&logo=Php)
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-round&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-round&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-round&logo=postgresql&logoColor=white)
 
 ### Deployement
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-round&logo=amazon-aws)
@@ -44,5 +47,4 @@ I am Barbaux Paul, a **Junior Fullstack Developer** based out of Rennes working 
 ![Harlok's wakatime stats](https://github-readme-stats-polo5922.vercel.app/api/wakatime?username=@polo5922&layout=compact&theme=codeSTACKr)
 
 ![wakatime](https://wakatime.com/badge/user/340b94dd-5e47-49d2-a9a8-20132d49f035.svg)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=polo5922.polo5922)
