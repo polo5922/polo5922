@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Muhammad Adeel, a **Junior Fullstack Developer** based out of Rennes working at [Hunel](https://www.hunel.com). Having around 5 years of experience in full-stack web development, but since 2022, I'm professionally working as a FullStack Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Barbaux Paul, a **Junior Fullstack Developer** based out of Rennes working at [Hunel](https://www.hunel.com). Having around 5 years of experience in full-stack web development, but since 2022, I'm professionally working as a FullStack Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-barbaux-a06474171/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10673638/paul-barbaux)
@@ -17,7 +17,6 @@ I am Muhammad Adeel, a **Junior Fullstack Developer** based out of Rennes workin
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Tailwind)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
