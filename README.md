@@ -45,9 +45,10 @@ I am Barbaux Paul, a **Junior Fullstack Developer** based out of Rennes working 
 ![Github Stats](https://github-readme-stats-polo5922.vercel.app/api?username=polo5922&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr&layout=compact)
 ![Top Langs](https://github-readme-stats-polo5922.vercel.app/api/top-langs/?username=polo5922&hide=TeX&layout=compact&theme=codeSTACKr)
 ![Harlok's wakatime stats](https://github-readme-stats-polo5922.vercel.app/api/wakatime?username=@polo5922&layout=compact&theme=codeSTACKr)
+
 ![wakatime](https://wakatime.com/badge/user/340b94dd-5e47-49d2-a9a8-20132d49f035.svg)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rjdaini22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=polo5922&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=polo5922.polo5922)
