@@ -16,7 +16,7 @@ I am Barbaux Paul, a **Junior Fullstack Developer** based out of Rennes working 
 ![react](https://img.shields.io/badge/React-20232A?style=flat-round&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-round&logo=react-router&logoColor=white)
 
-![svelte](https://img.shields.io/badge/React-white?style=flat-round&logo=svelte&logoColor=red)
+![svelte](https://img.shields.io/badge/Svelte-white?style=flat-round&logo=svelte&logoColor=red)
 
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=flat-round&logo=googlechrome&logoColor=white)
 
