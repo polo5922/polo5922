@@ -18,7 +18,7 @@ I am Barbaux Paul, a **Junior Fullstack Developer** based out of Rennes working 
 
 ![svelte](https://img.shields.io/badge/Svelte-white?style=flat-round&logo=svelte&logoColor=red)
 
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)]
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=flat-round&logo=googlechrome&logoColor=white)
 
