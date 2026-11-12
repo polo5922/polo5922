@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Barbaux Paul, a **Junior Fullstack Developer** based out of Rennes working at [Yuzu-IT]([https://www.hunel.io](https://yuzu-it.com/)). Having around 6 years of experience in full-stack web development, but since 2022, I'm professionally working as a FullStack Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Barbaux Paul, a **Fullstack Developer** based out of Rennes. Having around 6 years of experience in full-stack web development, but since 2022, I'm professionally working as a FullStack Developer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-barbaux-a06474171/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10673638/paul-barbaux)
